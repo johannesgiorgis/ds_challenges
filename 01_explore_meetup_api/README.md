@@ -2,7 +2,7 @@
 
 Use the [Meetup API] to explore meetups in your city of choice.
 
-**Guide Questions**:
+**Guideline Questions**:
 
 Below are some guide line questions to get you started:
 
